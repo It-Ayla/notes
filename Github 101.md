@@ -23,5 +23,5 @@ git diff commit1-id commit2-id
 
 ```
 
-
-
+---
+Enjoy coding ...
