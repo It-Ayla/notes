@@ -1,3 +1,6 @@
+# My notes
+
+![](https://ktar.com/wp-content/uploads/2021/10/notebook-pen-unsplash-900x506.jpg)
 
 It's like creating a magic book that remembers everything you do in your computer folder.
 
