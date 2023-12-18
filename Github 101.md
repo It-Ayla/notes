@@ -22,6 +22,8 @@ git log [--oneline]
 git diff commit1-id commit2-id 
 
 ```
-
+```shell
+git clone https://token@github.com/username/repo_name.git
+```
 ---
 Enjoy coding ...
